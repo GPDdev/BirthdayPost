@@ -1,0 +1,11 @@
+/build/
+/.private/
+/dist/
+/HANDOFF.md
+/handoffs/
+/.readme-checkpoint-*.md
+*.p12
+*.pass
+__pycache__/
+*.xcuserstate
+xcuserdata/
